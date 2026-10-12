@@ -1,0 +1,3 @@
+interface:
+  display_name: "Schoology Due"
+  short_description: "Read today or this week's Schoology deadlines"
